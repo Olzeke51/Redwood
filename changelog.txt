@@ -1,0 +1,3 @@
+Redwood project changelog
+Initial commit - not all implemented
+    basic command menu, with RTC,relay,button/debug led,temp/humid sensor
