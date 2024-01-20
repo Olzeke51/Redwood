@@ -1,4 +1,4 @@
 Redwood project changelog
 Initial commit - not all implemented
     basic command menu, with RTC,relay,button/debug led,temp/humid sensor
-Jan19 - added on/off in Relay1 object
+Jan19 - added on/off in Relay1 object; started to add 'globals' 
